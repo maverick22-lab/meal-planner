@@ -1,0 +1,242 @@
+{
+  "recipes": [
+    {
+      "id": "seed-1",
+      "title": "Crispy Parmesan Carrot Sticks",
+      "url": "https://hungryhappens.net/crispy-parmesan-carrot-sticks/",
+      "tags": ["veg", "side"],
+      "notes": "Roasted carrots with parm; good side.",
+      "protein": "veg",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "seed-2",
+      "title": "Coq au Champagne",
+      "url": "https://thedefineddish.com/coq-au-champagne/#wprm-recipe-container-40197",
+      "tags": ["chicken", "one-pot"],
+      "notes": "Rich chicken; check GF subs for flour if any.",
+      "protein": "chicken",
+      "kidFriendly": false,
+      "glutenFree": true
+    },
+    {
+      "id": "seed-3",
+      "title": "Sheet Pan Sesame Miso Chicken and Coconut Rice",
+      "url": "https://www.halfbakedharvest.com/sesame-miso-chicken/",
+      "tags": ["sheet-pan", "chicken"],
+      "notes": "Use GF soy sauce/miso for Kale.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "seed-4",
+      "title": "Crispy Buffalo Chicken Lettuce Wraps",
+      "url": "https://getsidedish.com/blogs/recipes/crispy-buffalo-chicken-lettuce-wraps",
+      "tags": ["chicken", "wraps"],
+      "notes": "Use GF breading or skip flour.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "seed-5",
+      "title": "Lemon Dill Salad",
+      "url": "https://plantyou.com/lemon-dill-salad/",
+      "tags": ["salad", "veg"],
+      "notes": "Good light side.",
+      "protein": "veg",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "seed-6",
+      "title": "Satisfying Salads",
+      "url": "https://thedefineddish.com/satisfying-salads/",
+      "tags": ["salad", "mix"],
+      "notes": "Multiple salad ideas; check ingredients for GF.",
+      "protein": "varies",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "seed-7",
+      "title": "Greek-Inspired Chicken Wings with Feta Dipping Sauce",
+      "url": "https://thedefineddish.com/greek-inspired-chicken-wings-with-feta-dipping-sauce/",
+      "tags": ["chicken", "wings"],
+      "notes": "Use GF seasoning; dairy in feta dip.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "mexican-chicken-rice",
+      "title": "One-Pan Mexican Chicken and Rice",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "one-pan", "rice", "weeknight"],
+      "notes": "From The Defined Dish. Chicken thighs, aromatics, rice, tomato paste, broth, Rotel. GF-friendly if broth/paste are GF. Optional toppings: avocado, radish, jalapeño, green onion, lime.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "enchiladas-con-carne",
+      "title": "Enchiladas con Carne (Paleo Beef Enchiladas)",
+      "url": "(cookbook photo)",
+      "tags": ["beef", "enchiladas", "bake", "grain-free"],
+      "notes": "Beef + green chiles/onion filling, grain-free tortillas, homemade enchilada sauce with ghee/arrowroot/chili powder mix. GF/grain-free; dairy-free if skipping cheese.",
+      "protein": "beef",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "fattoush-feta",
+      "title": "Fattoush Salad with Creamy Feta Dressing",
+      "url": "(cookbook photo)",
+      "tags": ["salad", "vegetarian", "gluten-free"],
+      "notes": "Little Gem/romaine + Persian cucumbers + tomatoes + red onion + dill/mint/parsley; toasted pita for crunch; creamy feta dressing (olive oil, feta, garlic, vinegar, Dijon, honey, oregano, salt/pepper).",
+      "protein": "veg",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "crispy-buffalo-wraps",
+      "title": "Crispy Buffalo Chicken Lettuce Wraps with Blue Cheese Sauce",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "buffalo", "lettuce-wrap", "gf"],
+      "notes": "Panko/cassava-breaded chicken tenders fried and tossed in Frank's-style Buffalo; served in lettuce cups with blue cheese sauce (Greek yogurt + blue cheese + lemon zest/juice + dill + chives). GF using GF panko/cassava. Optional: carrot matchsticks, dill fronds.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "sour-cream-chicken-enchiladas",
+      "title": "Sour Cream Chicken Enchiladas",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "enchiladas", "bake", "gf", "grain-free"],
+      "notes": "GF/grain-free using Siete tortillas; sour cream sauce with butter, tapioca/arrowroot, cumin, broth, sour cream. Filling: shredded chicken, diced green chiles, Monterey Jack, sour cream. Top with salsa verde, cheese, optional jalapeño; bake until bubbly.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "sheet-pan-hot-honey-dijon-chicken",
+      "title": "Sheet Pan Hot Honey Dijon Chicken",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "sheet-pan", "honey", "dijon", "gf"],
+      "notes": "Chicken thighs with baby potatoes and Brussels, seasoned with paprika/cumin/thyme/garlic. Hot honey Dijon sauce (honey, Dijon, ACV, lemon, thyme, cayenne optional). Roast then finish with sauce.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "sheet-pan-sausage-piquante-peppers",
+      "title": "Sheet Pan Sausage and Sweet Piquante Peppers",
+      "url": "(cookbook photo)",
+      "tags": ["sausage", "sheet-pan", "pesto", "gf"],
+      "notes": "Sheet pan sausages with piquante peppers, cauliflower, walnuts. Tossed with basil pesto + lemon + olive oil; topped with goat cheese (omit for dairy-free) and basil.",
+      "protein": "sausage",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "baked-salmon-sushi-bowls",
+      "title": "Baked Salmon Sushi Bowls with Spicy Mayo",
+      "url": "(cookbook photo)",
+      "tags": ["salmon", "bowl", "spicy-mayo", "gf"],
+      "notes": "Slow-roast salmon with avocado oil, coconut aminos, ginger/garlic, sesame oil; serve over brown rice (or cauliflower rice) with cucumber, avocado, green onions, nori strips, lime; spicy mayo (mayo, sesame oil, sriracha, rice vinegar, garlic).",
+      "protein": "salmon",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "red-pepper-miso-buddha-bowls",
+      "title": "Red Pepper Miso Buddha Bowls",
+      "url": "(cookbook photo)",
+      "tags": ["vegetarian", "bowl", "miso", "sweet-potato", "gf"],
+      "notes": "Roasted sweet potatoes; red pepper miso drizzle (roasted red pepper, coconut aminos, rice vinegar, sesame oil, miso, ginger). Components: cucumbers with rice vinegar/olive oil/black sesame; sautéed mushrooms + kale with lemon. Serve over grain (quinoa/farro/rice) with avocado.",
+      "protein": "veg",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "creamy-chicken-toscana",
+      "title": "Creamy Chicken Toscana",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "skillet", "bacon", "coconut-milk", "gf"],
+      "notes": "Bacon + cassava-dredged chicken thighs, browned; sauce with broth, lemon, mustard, Italian seasoning, potato, kale, coconut milk. GF/grain-free; dairy-free if using coconut milk.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "balsamic-steak-salad-gorgonzola",
+      "title": "Balsamic Steak Salad with Creamy Gorgonzola Dressing",
+      "url": "(cookbook photo)",
+      "tags": ["steak", "salad", "gorgonzola", "gf"],
+      "notes": "Flank steaks marinated in olive oil + balsamic + mustard + garlic; served over arugula/spring mix with tomatoes and radishes; creamy Gorgonzola dressing (gorgonzola, garlic, olive oil, mustard, champagne vinegar, lemon juice, honey). GF/grain-free.",
+      "protein": "beef",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "pastrami-roast-chicken",
+      "title": "Pastrami Roast Chicken with Schmaltzy Onions & Dill",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "roast", "pastrami-spice", "onion", "dill"],
+      "notes": "Whole roast chicken on bed of red onions + garlic; rub of paprika, brown sugar, black pepper, salt, olive oil. Roast 50–65 min; finish with dill tossed into schmaltzy onions; serve with Dijon.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "slow-roasted-piri-piri-chicken",
+      "title": "Slow-Roasted Piri-Piri(ish) Chicken with Crushed Potatoes & Aioli",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "roast", "piri-piri", "potatoes"],
+      "notes": "Whole chicken rubbed with chili paste (Fresno/serrano + garlic + tomato paste + paprika + oil), slow-roasted with Yukon Gold potatoes; serve with aioli from pan drippings/egg yolk/garlic/oil.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "spiced-grilled-swaddled-thighs",
+      "title": "Spiced, Grilled & Swaddled Chicken Thighs with the Works",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "grill", "shawarma-ish", "pita"],
+      "notes": "Marinated boneless thighs (yogurt, lemon, oil, salt, smoked paprika, cumin, cinnamon, cayenne), grilled; quick-pickled red onions; garlic yogurt sauce; warm pitas; mint/cilantro; lettuce for wraps.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": false
+    },
+    {
+      "id": "strip-steaks-au-poivre",
+      "title": "Strip Steaks au Poivre",
+      "url": "(cookbook photo)",
+      "tags": ["steak", "au-poivre", "skillet"],
+      "notes": "NY strip steaks salt/peppercorn-crusted; seared in cast iron, basted with butter/garlic/thyme; pan sauce with cognac (or broth) and heavy cream.",
+      "protein": "beef",
+      "kidFriendly": true,
+      "glutenFree": true
+    },
+    {
+      "id": "one-pot-chicken-schmaltzy-rice",
+      "title": "One-Pot Chicken & Schmaltzy Rice with Lemony Yog",
+      "url": "(cookbook photo)",
+      "tags": ["chicken", "one-pot", "rice"],
+      "notes": "Skin-on thighs crisped, then cooked with basmati rice, onion, garlic, chili/serrano, lemon zest; finish with lemony yogurt (lemon zest/juice/garlic/yogurt) and pistachios/snap peas/parsley. Steam rice 10 min, fluff with lemon/pistachio/parsley/snap peas; serve chicken over rice, spoon yogurt on top.",
+      "protein": "chicken",
+      "kidFriendly": true,
+      "glutenFree": true
+    }
+  ],
+  "plan": {
+    "Sun": [],
+    "Mon": [],
+    "Tue": [],
+    "Wed": [],
+    "Thu": []
+  },
+  "grocery": []
+}
